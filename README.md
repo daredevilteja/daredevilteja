@@ -37,7 +37,7 @@
 
 <br><br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=daredevilteja&theme=gotham)](https://github.com/daredevilteja)
+[![theConqueror's GitHub | Stats](https://stats.quine.sh/theConqueror/github?theme=light)](https://quine.sh)
 
 <br>
 
