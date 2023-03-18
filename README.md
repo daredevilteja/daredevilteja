@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daredevilteja&label=Profile%20views&color=0e75b6&style=flat" alt="daredevilteja" /> </p>
 
 
-- 🔭 I’m currently working on **An Expenditure Tracker**
+- 🔭 I’m currently working on **Building NLP models**
 
-- 🌱 I’m currently learning **Working with Databases**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
